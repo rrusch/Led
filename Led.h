@@ -1,5 +1,5 @@
 /**
- * Led libaray.
+ * Led library.
  *
  * @author Roland Rusch <roland@rusch.lu>
  * @version 0.0.1-dev
